@@ -3,4 +3,4 @@
 
 This project predict how much any given individual will accumulate in medical bills based on the data that the insurance company has.
 
-The dataset used in this project comes from Kaggle.
+The dataset used in this project comes from [Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance).
